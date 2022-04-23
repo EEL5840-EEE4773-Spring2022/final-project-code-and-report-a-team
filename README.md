@@ -2,7 +2,7 @@
 ## About The Project
 The objective of this project was to develop an end to end machine learning algorithm that can classify handwritten characters into ten classes. This work was done as a course project for 'EEL5840: Fundamentals of Machine Learning' Course. Train dataset were collected by handwritten characters on physical paper. The train dataset consists of a total 6720 images with a dimension of 300x300 pixels each. We used a state-of-the-art CNN structure named ResNet-18 for final training. The final trained model was able to detect all ten classes with a validation accuracy of 99.48%. 
 
-For complete technical description, please refer to this [report].
+For complete technical description, please refer to this [report](https://github.com/EEL5840-EEE4773-Spring2022/final-project-code-and-report-a-team/blob/main/EEL5840_Report_A-Team.pdf)
 
 
 <!-- GETTING STARTED -->
