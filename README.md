@@ -12,7 +12,7 @@ For complete technical description, please refer to this [report].
 	- environment.yml
 	- train.py
 	- test.py
-	- Models_and_Weights[edit]
+	- best_model_resnet18_e5.pt (Trained_Weights)
 
 2. Setting up the working directory:
 
