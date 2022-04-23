@@ -70,7 +70,7 @@ For complete technical description, please refer to this [report].
 ## Acknowledgement
 
 - Professor Catia Silva, who taught us machine learning.
-- FICS GPU server, We used the server during training.
+- FICS GPU server, as we used the server during training.
 
 
 <!-- Authors -->
